@@ -1,0 +1,34 @@
+---
+title: "Basic Biology in the Ryan Group"
+author: "Alyssa Henderson"
+date: "4 September 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+In the Ryan Group, we work on elucidating the biosynthetic pathways of natural products with interesting chemical functionalities or bioactivity. To do this, we employ techniques from both chemistry and molecular biology. This document will serve as a brief primer (ha!) on some of the molecular biology methods that we use in the group.
+
+A basic workflow for this type of research is presented below, and I will attempt to go into some degree of detail on each step in the sections to follow.
+
+
+
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
